@@ -1,2 +1,3 @@
-# mcu
-MCU / SBC Resources
+# MCU / SBC Resources
+
+Everything MCU / SBC Related
